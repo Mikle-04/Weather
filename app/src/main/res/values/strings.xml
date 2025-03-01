@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeaterApplication</string>
+    <string name="search">Поиск</string>
+    <string name="something_went_wrong">Что-то пошло не так(</string>
+    <string name="nothing_found">Поиск не дал результатов</string>
+</resources>
