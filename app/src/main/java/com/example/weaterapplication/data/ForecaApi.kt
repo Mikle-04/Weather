@@ -14,8 +14,6 @@ import retrofit2.http.Path
 
 interface ForecaApi {
 
-    // Заменили Call на Single
-
     @POST("/authorize/token?expire_hours=-1")
     fun authenticate(@Body request: ForecaAuthRequest): Single<ForecaAuthResponse>
 
