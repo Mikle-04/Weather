@@ -35,4 +35,4 @@
 1. **Клонируйте репозиторий**:
    ```bash
    git clone <URL-репозитория>
-   cd Three
+   cd WeaterApplication
